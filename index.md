@@ -30,10 +30,10 @@ In my free time, I like to do many things. Here is a brief list of my hobbies.
 
 ## Fish Pictures
 Here are a few pictures from my adventures 
-![Male Rock Wrasse](1.jpg)
-![Kelp Bass](2.jpg)
-![California Spiny Lobster](3.jpg)
-![California sheephead](4.jpg)
+![Male Rock Wrasse](https://cdn.discordapp.com/attachments/803391931002126357/827087100293545984/20200817_135856.jpg)
+![Kelp Bass](https://cdn.discordapp.com/attachments/803391931002126357/827087291880177664/20200928_160237.jpg)
+![California Spiny Lobster](https://cdn.discordapp.com/attachments/803391931002126357/827087395312762930/20201031_230338.jpg)
+![California sheephead](https://cdn.discordapp.com/attachments/803391931002126357/827087459577364520/20201218_120851.jpg)
 
 ## To-do List
 - [x] Finish Lab1
@@ -41,4 +41,5 @@ Here are a few pictures from my adventures
 - [] List personal projects
 
 [Link to README](README.md)
+
 This site was built using [GitHub Pages](https://pages.github.com/).
