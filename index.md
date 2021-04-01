@@ -6,9 +6,8 @@ My name is Young Jun Kim, and I am currently a computer science student at the U
 ## Algorithms
 As someone who is really interested in algorithms, my favorite quote comes from Donald Knuth
 > An algorithm must be seen to be believed.
-
+> 
 I tend to struggle with understanding an algortihm from solely a mathematical viewpoint, and seeing how the algorithm works really helps me understand it.
-
 My favorite algorithm is how recursive explore works. I find it very interesting how you can recursively traverse a graph with such little lines of code. The algorithm is listed below
 ```
 explore(v) {
