@@ -1,7 +1,13 @@
 ## Young's Personal Page
 
 ## Introduction
-My name is Young Jun Kim, and I am currently a computer science student at the University of California, San Diego. After taking many courses, my current favorite programming language is **C++** because of how powerful the STL library is at solving data structure problems. Additionally, I simply love the **GDB** debugger because of the various commands that it has for debugging. 
+My name is Young Jun Kim, and I am currently a computer science student at the University of California, San Diego. After taking many courses, my current favorite programming language is **C++** because of how powerful the STL library is at solving data structure problems. Additionally, I simply love the **GDB** debugger because of the various commands that it has for debugging.
+
+In terms of my programming abilites, I have listed the languages I am proficent at from most to least below.
+
+1. C/C++
+2. Java
+3. Python
 
 ## Algorithms
 As someone who is really interested in algorithms, my favorite quote comes from Donald Knuth
@@ -41,6 +47,6 @@ Here are a few pictures from my adventures
 - [] Attach resume
 - [] List personal projects
 
-[Link to Relative Link](/relative_link.md)
+[Link to relative link](/relative_link.md)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
