@@ -1,1 +1,1 @@
-You have been redirected to the relative_link section. 
+You have been redirected to the relative link section. 
