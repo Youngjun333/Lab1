@@ -41,6 +41,6 @@ Here are a few pictures from my adventures
 - [] Attach resume
 - [] List personal projects
 
-[Link to README](/README.md)
+[Link to Relative Link](/relative_link.md)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
