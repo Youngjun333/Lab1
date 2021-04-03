@@ -44,9 +44,9 @@ Here are a few pictures from my adventures
 
 ## To-do List
 - [x] Finish Lab1
-- [] Attach resume
-- [] List personal projects
+- [ ] Attach resume
+- [ ] List personal projects
 
-[Link to relative link](/relative_link.md)
+[Link to hiking pictures](/hiking_pics.md)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
